@@ -1,8 +1,10 @@
 .cat {
 	float:left;
   padding: 10px;
+  background: #876;
 }
 .fall {
 	float:right;
   padding: 10px;
+  background: #f80;
 }
